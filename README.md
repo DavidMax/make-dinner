@@ -1,5 +1,7 @@
 # MakeDinner
 
+Make Dinner is a recipe-meets-shopping-list app that I'm building to experiment with [Angular](https://angular.io/) 4.x.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
 
 ## Development server
